@@ -4,6 +4,7 @@ My name is Nicholas and I'm a software engineer student from Malaysia. Here's so
 
 ⚡ Work experience:
 - **Software Engineer intern at transact2** - Back end development on the Software Development team. [Remote. January 2021 - April 2021]
+- **Web Developer intern at Breakthrough Academy** - Project lead on multiple website development projects. [Remote. April 2023 - August 2023]
 
 🌱 Interests:
 - Software development.
